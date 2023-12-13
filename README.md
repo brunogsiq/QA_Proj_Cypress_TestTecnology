@@ -1,1 +1,1 @@
-# QA_Proj_Cypress_TestTecnoplogy
+Projeto de Automaço - Site Globo Esporte.
